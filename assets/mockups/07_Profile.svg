@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+<rect x="0" y="0" width="390" height="844" rx="0" fill="#F8F6EF"/>
+<text x="25" y="27" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start">9:41</text>
+<text x="350" y="27" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" text-anchor="end">● ▮</text>
+<text x="24" y="80" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800" text-anchor="start">habiPEt</text>
+<circle cx="114" cy="74" r="4" fill="#E6BC65"/>
+<text x="24" y="120" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" text-anchor="start">Profile &amp; Settings</text>
+<text x="24" y="145" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">Make habiPEt yours</text>
+<rect x="24" y="167" width="342" height="113" rx="17" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<circle cx="85" cy="223" r="37" fill="#E6EFE2"/>
+<text x="85" y="232" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700" text-anchor="middle">◉</text>
+<text x="139" y="218" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="19" font-weight="800" text-anchor="start">My Profile</text>
+<text x="139" y="241" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start">Personal progress overview</text>
+<rect x="24" y="298" width="107" height="94" rx="17" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<text x="40" y="336" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="800" text-anchor="start">4</text>
+<text x="40" y="363" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start">Active habits</text>
+<rect x="141" y="298" width="107" height="94" rx="17" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<text x="157" y="336" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="800" text-anchor="start">26</text>
+<text x="157" y="363" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start">Completions</text>
+<rect x="258" y="298" width="107" height="94" rx="17" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<text x="274" y="336" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="27" font-weight="800" text-anchor="start">12</text>
+<text x="274" y="363" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start">Pet age (days)</text>
+<text x="24" y="438" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="800" text-anchor="start">Preferences</text>
+<rect x="24" y="457" width="342" height="61" rx="17" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<text x="40" y="482" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start">Appearance</text>
+<text x="40" y="502" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start">Light / Dark theme</text>
+<text x="345" y="493" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="end">›</text>
+<rect x="24" y="528" width="342" height="61" rx="17" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<text x="40" y="553" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start">Reminders</text>
+<text x="40" y="573" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start">Notification preferences</text>
+<text x="345" y="564" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="end">›</text>
+<rect x="24" y="599" width="342" height="61" rx="17" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<text x="40" y="624" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start">Archived habits</text>
+<text x="40" y="644" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start">View inactive habits</text>
+<text x="345" y="635" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="end">›</text>
+<rect x="24" y="670" width="342" height="61" rx="17" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<text x="40" y="695" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start">About habiPEt</text>
+<text x="40" y="715" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="start">Project information</text>
+<text x="345" y="706" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="700" text-anchor="end">›</text>
+<rect x="0" y="764" width="390" height="80" rx="0" fill="#FFFFFF"/>
+<path d="M0 764 L390 764" fill="none" stroke="#E4E9E0" stroke-width="1" stroke-linecap="round"/>
+<text x="39" y="794" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">⌂</text>
+<text x="39" y="815" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle">Home</text>
+<text x="117" y="794" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">▦</text>
+<text x="117" y="815" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle">Progress</text>
+<text x="195" y="794" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">✦</text>
+<text x="195" y="815" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle">Badges</text>
+<text x="273" y="794" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">♥</text>
+<text x="273" y="815" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle">Pet</text>
+<rect x="323" y="774" width="56" height="26" rx="13" fill="#E6EFE2"/>
+<text x="351" y="794" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">◉</text>
+<text x="351" y="815" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="middle">Profile</text>
+</svg>

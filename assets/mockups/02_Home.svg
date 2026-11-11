@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="844" viewBox="0 0 390 844">
+<rect x="0" y="0" width="390" height="844" rx="0" fill="#F8F6EF"/>
+<text x="25" y="27" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="start">9:41</text>
+<text x="350" y="27" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="600" text-anchor="end">● ▮</text>
+<text x="24" y="80" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="18" font-weight="800" text-anchor="start">habiPEt</text>
+<circle cx="114" cy="74" r="4" fill="#E6BC65"/>
+<text x="24" y="120" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="800" text-anchor="start">Today’s Habits</text>
+<text x="24" y="145" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="400" text-anchor="start">Wednesday, November 11</text>
+<circle cx="350" cy="160" r="65" fill="#EEF3E8"/>
+<circle cx="364" cy="139" r="29" fill="#E0EAD9"/>
+<rect x="24" y="169" width="342" height="98" rx="18" fill="#365B45"/>
+<text x="44" y="198" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start">Daily progress</text>
+<text x="343" y="198" fill="#DCE9D9" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" text-anchor="end">2 of 4</text>
+<rect x="44" y="218" width="302" height="12" rx="6" fill="#789782"/>
+<rect x="44" y="218" width="151" height="12" rx="6" fill="#E6BC65"/>
+<text x="44" y="250" fill="#E8F2E4" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start">Every small step counts! ✨</text>
+<rect x="24" y="284" width="342" height="67" rx="17" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<rect x="40" y="303" width="28" height="28" rx="9" fill="#E6EFE2" stroke="#608B70" stroke-width="1"/>
+<text x="54" y="324" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle">✓</text>
+<text x="83" y="312" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Read for 20 minutes</text>
+<text x="83" y="332" fill="#608B70" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start">Complete</text>
+<rect x="24" y="361" width="342" height="67" rx="17" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<rect x="40" y="380" width="28" height="28" rx="9" fill="#E6EFE2" stroke="#608B70" stroke-width="1"/>
+<text x="54" y="401" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle">✓</text>
+<text x="83" y="389" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Drink water</text>
+<text x="83" y="409" fill="#608B70" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start">Complete</text>
+<rect x="24" y="438" width="342" height="67" rx="17" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<rect x="40" y="457" width="28" height="28" rx="9" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<text x="54" y="478" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle"></text>
+<text x="83" y="466" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Exercise</text>
+<text x="83" y="486" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start">Not completed</text>
+<rect x="24" y="515" width="342" height="67" rx="17" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<rect x="40" y="534" width="28" height="28" rx="9" fill="#FFFFFF" stroke="#E4E9E0" stroke-width="1"/>
+<text x="54" y="555" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700" text-anchor="middle"></text>
+<text x="83" y="543" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="start">Practice coding</text>
+<text x="83" y="563" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start">Not completed</text>
+<rect x="24" y="611" width="342" height="53" rx="15" fill="#365B45"/>
+<text x="195" y="644" fill="#FFFFFF" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700" text-anchor="middle">+ Add New Habit</text>
+<rect x="24" y="678" width="342" height="72" rx="17" fill="#E6EFE2"/>
+<g transform="translate(66 715) scale(0.32)">
+<path d="M-50 -28 Q-73 -92 -30 -74 L-14 -47 Q0 -65 22 -52 L46 -79 Q79 -81 55 -20 Q81 10 56 52 Q4 84 -51 54 Q-80 15 -50 -28Z" fill="#C5D8BB" stroke="#365B45" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M-47 -63 L-32 -58 L-32 -46Z" fill="#E5BFAF"/>
+<path d="M44 -64 L28 -52 L43 -42Z" fill="#E5BFAF"/>
+<circle cx="-22" cy="-5" r="5" fill="#23372E"/>
+<circle cx="22" cy="-5" r="5" fill="#23372E"/>
+<circle cx="-24" cy="-7" r="1.6" fill="#FFFFFF"/>
+<circle cx="20" cy="-7" r="1.6" fill="#FFFFFF"/>
+<path d="M-4 10 Q0 15 4 10" fill="none" stroke="#23372E" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="-39" cy="13" r="9" fill="#EBAA9D"/>
+<circle cx="39" cy="13" r="9" fill="#EBAA9D"/>
+<path d="M-16 57 Q-7 64 0 54 Q6 63 15 57" fill="none" stroke="#365B45" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<text x="104" y="708" fill="#23372E" font-family="Arial, Helvetica, sans-serif" font-size="14" font-weight="700" text-anchor="start">Your companion · Level 3</text>
+<text x="104" y="730" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="12" font-weight="400" text-anchor="start">30 food points available</text>
+<rect x="0" y="764" width="390" height="80" rx="0" fill="#FFFFFF"/>
+<path d="M0 764 L390 764" fill="none" stroke="#E4E9E0" stroke-width="1" stroke-linecap="round"/>
+<rect x="11" y="774" width="56" height="26" rx="13" fill="#E6EFE2"/>
+<text x="39" y="794" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">⌂</text>
+<text x="39" y="815" fill="#365B45" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="700" text-anchor="middle">Home</text>
+<text x="117" y="794" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">▦</text>
+<text x="117" y="815" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle">Progress</text>
+<text x="195" y="794" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">✦</text>
+<text x="195" y="815" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle">Badges</text>
+<text x="273" y="794" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">♥</text>
+<text x="273" y="815" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle">Pet</text>
+<text x="351" y="794" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700" text-anchor="middle">◉</text>
+<text x="351" y="815" fill="#7B8D80" font-family="Arial, Helvetica, sans-serif" font-size="11" font-weight="400" text-anchor="middle">Profile</text>
+</svg>

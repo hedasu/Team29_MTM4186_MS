@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="844" version="1.1" viewBox="0 0 390 844" width="390">
+  <defs/>
+  <rect fill="#FAFAFA" height="844" width="390" x="0" y="0"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" x="24" y="26">9:41</text>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start" x="345" y="26">● ▮</text>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="20" font-weight="700" text-anchor="start" x="24" y="70">‹</text>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="27" font-weight="700" text-anchor="start" x="24" y="113">Create a Habit</text>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start" x="24" y="152">Habit name</text>
+  <rect fill="white" height="54" rx="10" ry="10" stroke="#B7BDC1" stroke-width="1.5" width="350" x="20" y="165"/>
+  <text fill="#68727A" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start" x="33" y="186">e.g., Read 20 minutes</text>
+  <line stroke="#B7BDC1" stroke-width="1.6" x1="33" x2="357" y1="203" y2="203"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start" x="24" y="256">Category</text>
+  <rect fill="white" height="52" rx="12" ry="12" stroke="#B7BDC1" stroke-width="1.5" width="350" x="20" y="270"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="14" font-weight="400" text-anchor="start" x="36" y="301">Personal Growth</text>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="20" font-weight="400" text-anchor="end" x="345" y="301">⌄</text>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start" x="24" y="359">Repeat frequency</text>
+  <rect fill="#ECEFF0" height="30" rx="15" ry="15" stroke="#B7BDC1" stroke-width="1" width="103" x="20" y="373"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="middle" x="71.5" y="393">Daily</text>
+  <rect fill="#ECEFF0" height="30" rx="15" ry="15" stroke="#B7BDC1" stroke-width="1" width="112" x="130" y="373"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="middle" x="186.0" y="393">Weekly</text>
+  <rect fill="#ECEFF0" height="30" rx="15" ry="15" stroke="#B7BDC1" stroke-width="1" width="121" x="249" y="373"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="middle" x="309.5" y="393">Custom</text>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start" x="24" y="442">Select days</text>
+  <rect fill="#ECEFF0" height="43" rx="20" ry="20" stroke="#B7BDC1" stroke-width="1.5" width="43" x="20" y="459"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle" x="41" y="485">M</text>
+  <rect fill="#ECEFF0" height="43" rx="20" ry="20" stroke="#B7BDC1" stroke-width="1.5" width="43" x="71" y="459"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle" x="92" y="485">T</text>
+  <rect fill="#ECEFF0" height="43" rx="20" ry="20" stroke="#B7BDC1" stroke-width="1.5" width="43" x="122" y="459"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle" x="143" y="485">W</text>
+  <rect fill="#ECEFF0" height="43" rx="20" ry="20" stroke="#B7BDC1" stroke-width="1.5" width="43" x="173" y="459"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle" x="194" y="485">T</text>
+  <rect fill="#ECEFF0" height="43" rx="20" ry="20" stroke="#B7BDC1" stroke-width="1.5" width="43" x="224" y="459"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle" x="245" y="485">F</text>
+  <rect fill="white" height="43" rx="20" ry="20" stroke="#B7BDC1" stroke-width="1.5" width="43" x="275" y="459"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle" x="296" y="485">S</text>
+  <rect fill="white" height="43" rx="20" ry="20" stroke="#B7BDC1" stroke-width="1.5" width="43" x="326" y="459"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="middle" x="347" y="485">S</text>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="14" font-weight="700" text-anchor="start" x="24" y="545">Reminder (optional)</text>
+  <rect fill="white" height="55" rx="12" ry="12" stroke="#B7BDC1" stroke-width="1.5" width="350" x="20" y="561"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="15" font-weight="400" text-anchor="start" x="35" y="594">08:00 AM</text>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="18" font-weight="400" text-anchor="end" x="346" y="594">⌄</text>
+  <rect fill="#273037" height="48" rx="12" ry="12" stroke="#273037" stroke-width="1.5" width="350" x="20" y="680"/>
+  <text fill="white" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" x="195.0" y="710">Save Habit</text>
+  <text fill="#68727A" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="middle" x="195" y="749">Cancel and return to Home</text>
+</svg>

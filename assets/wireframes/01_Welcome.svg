@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xlink="http://www.w3.org/1999/xlink" baseProfile="full" height="844" version="1.1" viewBox="0 0 390 844" width="390">
+  <defs/>
+  <rect fill="#FAFAFA" height="844" width="390" x="0" y="0"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="12" font-weight="700" text-anchor="start" x="24" y="26">9:41</text>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="start" x="345" y="26">● ▮</text>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="26" font-weight="700" text-anchor="middle" x="195" y="104">Welcome to habiPEt</text>
+  <text fill="#68727A" font-family="Arial, sans-serif" font-size="15" font-weight="400" text-anchor="middle" x="195" y="132">Build habits. Grow together.</text>
+  <rect fill="#ECEFF0" height="284" rx="25" ry="25" stroke="#B7BDC1" stroke-width="1.5" width="246" x="72" y="198"/>
+  <circle cx="195" cy="302" fill="none" r="74" stroke="#B7BDC1" stroke-width="3"/>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="24" font-weight="700" text-anchor="middle" x="195" y="311">PET</text>
+  <text fill="#68727A" font-family="Arial, sans-serif" font-size="13" font-weight="400" text-anchor="middle" x="195" y="413">Virtual pet illustration</text>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="16" font-weight="400" text-anchor="middle" x="195" y="530">Create habits, earn rewards,</text>
+  <text fill="#273037" font-family="Arial, sans-serif" font-size="16" font-weight="400" text-anchor="middle" x="195" y="556">and care for your companion.</text>
+  <rect fill="#273037" height="48" rx="12" ry="12" stroke="#273037" stroke-width="1.5" width="322" x="34" y="651"/>
+  <text fill="white" font-family="Arial, sans-serif" font-size="15" font-weight="700" text-anchor="middle" x="195.0" y="681">Get Started</text>
+  <text fill="#68727A" font-family="Arial, sans-serif" font-size="12" font-weight="400" text-anchor="middle" x="195" y="726">First launch only</text>
+</svg>

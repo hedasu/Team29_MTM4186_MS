@@ -1,0 +1,9 @@
+BEFORE SUBMISSION
+[ ] Replace author and GitHub URL placeholders in README.md
+[ ] Confirm Figma can-view permission and test the full design link
+[ ] Test Figma prototype in Present mode
+[ ] Push actual repository files to GitHub using your personal account
+[ ] Add actual GitHub repo URL to course Google Sheet
+[ ] Download repository ZIP from GitHub
+[ ] Rename ZIP to Team#_MTM4186_MS.zip using your confirmed identifier
+[ ] Upload to online.yildiz.edu.tr before the deadline
