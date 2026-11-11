@@ -3,7 +3,7 @@
 **Course:** MTM4186 Mobile Programming  
 **Submission:** Individual Milestone Project  
 **Author:** Şüheda Mazlum 
-**GitHub repository:** 
+**GitHub repository:** https://github.com/hedasu/Team29_MTM4186_MS
 
 ## Project overview
 habiPEt is a gamified habit-tracking mobile application concept built around positive routines and a virtual pet. Users create habits, log completion, track progress, earn 7/14/21-day achievement badges, and use rewards to feed and level up a companion. The pet's age represents application usage time; level progression is linked to feeding.
